@@ -1,7 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1756298616.22009 "c:/Users/crist/OneDrive/Escritorio/UV_2025_S2/Seminario/Seminario_1.tex" "build/Seminario_1.pdf" "Seminario_1" 1756298617.85593 2
+["pdflatex"] 1756299164.54514 "c:/Users/crist/OneDrive/Escritorio/UV_2025_S2/Seminario/Seminario_1.tex" "build/Seminario_1.pdf" "Seminario_1" 1756299165.06449 2
   "C:/Users/crist/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731166557 11985491 1ee8162509c447c4f49575c758cd2946 ""
-  "C:/Users/crist/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1729407284 143218 a1f6830fd32485e0d151ed0d1d8a438e ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1729407286 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-spanish.tex" 1729407286 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
@@ -11,7 +10,7 @@
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/babel-spanish/spanish.ldf" 1622279580 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1730400195 20144 d7d3a15c7efd9458741458961c8a96e7 ""
-  "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1730400195 8464 921883e485804f1e88db60bc47ff1592 ""
+  "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1730400195 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty" 1715414856 3755 4872b99d810c024f9c09bb1c62ffee3b ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty" 1578053545 42759 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -19,9 +18,9 @@
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty" 1729589182 6565 d98f3c6d48796296d3016962b8730bd7 ""
   "C:/Users/crist/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1724854269 9783 ab4bee47700c04aadedb8da27591b0ab ""
-  "Seminario_1.tex" 1756298559 3311 946c4a9cb93f56f10f4e6a75559e6ca7 ""
-  "build/Seminario_1.aux" 1756298616 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "c:/Users/crist/OneDrive/Escritorio/UV_2025_S2/Seminario/Seminario_1.tex" 1756298559 3311 946c4a9cb93f56f10f4e6a75559e6ca7 ""
+  "Seminario_1.tex" 1756298875 3310 b60896cc7f42820223519e90d8c4d7a5 ""
+  "build/Seminario_1.aux" 0 -1 0 "pdflatex"
+  "c:/Users/crist/OneDrive/Escritorio/UV_2025_S2/Seminario/Seminario_1.tex" 1756298875 3310 b60896cc7f42820223519e90d8c4d7a5 ""
   (generated)
   "build/Seminario_1.aux"
   "build/Seminario_1.log"

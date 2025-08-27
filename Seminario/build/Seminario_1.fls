@@ -4,10 +4,9 @@ INPUT c:\Users\crist\OneDrive\Escritorio\UV_2025_S2\Seminario\Seminario_1.tex
 OUTPUT c:\Users\crist\OneDrive\Escritorio\UV_2025_S2\Seminario\build\Seminario_1.log
 INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
-INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\crist\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
