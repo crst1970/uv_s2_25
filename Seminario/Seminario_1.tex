@@ -1,0 +1,112 @@
+% Compilar con LuaLaTeX o XeLaTeX
+\documentclass[11pt]{article}
+
+% ====== Configuración básica ======
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\geometry{letterpaper, margin=2.5cm}
+
+% Tipografías (Arial o fallback a TeX Gyre Heros)
+\usepackage{fontspec}
+\IfFontExistsTF{Arial}{
+  \setmainfont{Arial}
+}{
+  \setmainfont{TeX Gyre Heros} % similar a Arial/Helvetica
+}
+
+% Paquetes útiles
+\usepackage{microtype}   % mejor espaciado tipográfico
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+% Enlaces discretos
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=MidnightBlue,
+  citecolor=black
+}
+
+% Párrafo y líneas
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\linespread{1.08}
+
+% ====== Encabezado y pie minimalistas ======
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\footnotesize Universidad de Valparaíso}
+\rhead{\footnotesize Seminario de Investigación — 2º Semestre 2025}
+\cfoot{\footnotesize \thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ====== Títulos con aire y jerarquía ======
+\titleformat{\section}
+  {\large\bfseries}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{10pt}{4pt}
+
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}{0pt}{}
+\titlespacing*{\subsection}{0pt}{8pt}{3pt}
+
+% ====== Metadatos (para reusar) ======
+\newcommand{\titulodeltrabajo}{De Señales a Redes: Entendiendo la conectividad cerebral y su función}
+\newcommand{\autor}{Cristian Salgado Torres}
+\newcommand{\correo}{cristian.salgado@estudiantes.uv.cl}
+\newcommand{\rut}{20.973.317-K}
+\newcommand{\curso}{Magíster en Ciencias de la Ingeniería Biomédica}
+\newcommand{\profesora}{Débora Buendía Palacios}
+\newcommand{\fechaentrega}{28 de agosto de 2025}
+\newcommand{\expositor}{Joana Cabral}
+
+\begin{document}
+
+% ====== Portada compacta y limpia ======
+\begin{center}
+  {\LARGE \textbf{\titulodeltrabajo}}\\[8pt]
+  {\large \autor}\\[2pt]
+  \correo \quad | \quad \rut\\[6pt]
+  \curso\\
+  Profesora: \profesora\\
+  \fechaentrega
+\end{center}
+
+\vspace{0.8em}
+\hrule height 0.4pt
+\vspace{0.8em}
+
+% ====== Contenido según pauta ======
+\section*{Identificación}
+\textbf{Expositora:} \expositor \quad | \quad
+Biomedical Engineer and Neuroscientist
+
+\section*{Introducción}
+La resonancia magnetica funcional
+
+\section*{Desarrollo del tema}
+Explique en qué consistió la charla y el (los) experimento(s) realizado(s) por el/la investigador(a). Puede incluir figuras o tablas si corresponde.
+
+\section*{Discusión}
+Realice un análisis comparativo entre lo expuesto y el contexto de la literatura/área. Señale fortalezas, limitaciones y posibles mejoras/metodologías alternativas.
+
+\section*{Conclusión}
+Comente su apreciación sobre el tema y sobre el/los experimento(s) presentados. Señale el principal aprendizaje y proyección.
+
+\section*{Referencias}
+\begin{itemize}[leftmargin=0.7cm,itemsep=2pt]
+  \item Apellido, N. (Año). \textit{Título del artículo}. Revista/Editorial. DOI/URL.
+  \item Autor, M. (Año). \textit{Recurso adicional}. Editorial.
+\end{itemize}
+
+
+\end{document}
